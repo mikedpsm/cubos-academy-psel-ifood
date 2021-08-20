@@ -1,5 +1,5 @@
-Códigos dos desafios do PSEL Sucesso Compartilhado
+Codes from the challenge "PSEL Sucesso Compartilhado"
 
-Repositório com as functions dos algoritmos solicitados no Hackerrank
+Repository with the functions from the algorithms requested at HackerRank
 
 OwO
